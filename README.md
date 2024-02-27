@@ -475,6 +475,7 @@ return 0;
 
 OUTPUT :
 
+<img width="383" alt="image" src="https://github.com/AlluguriSrikrishnateja/cryptography_19CS412_classical_techniques/assets/118343892/85dfb811-5c60-48fe-be02-504953d0fb47">
 
 
 RESULT :
